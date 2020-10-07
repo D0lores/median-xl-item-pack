@@ -3,7 +3,7 @@
 用于测试和研究使用，由本装备库引起的任何问题由使用者自行承担。
 
 # Disclaimer
-This repo is median-xl sigma single player  build research  and test  purpose only.
+This is for median-xl sigma single player  build research  and test  purpose only.
 
 # 魔电西格玛1.6.3离线装备库
 
